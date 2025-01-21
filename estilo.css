@@ -29,7 +29,7 @@ header#cabeca img#icone{
 header#cabeca{
 border-bottom: 5px #EEC900 solid;
     height: 150px;
-    background: url("../Projeto proprio/Imagens/logo.avif") no-repeat 0  ;
+    background: url("./logo.avif") no-repeat 0  ;
 }
 
 header#cabeca h1{
